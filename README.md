@@ -42,3 +42,13 @@ I strongly recommend that you [get notified for an upcoming event](https://tech-
 ## DevTools > Sources > Snippets
 
 ![DevToolsJSsnippets](https://githubassets.pages.dev/DevToolsJSSnippets.png)
+
+ressources
+
+- [https://bgrins.github.io/devtools-snippets/](https://bgrins.github.io/devtools-snippets/)
+- [https://github.com/bgrins/devtools-snippets](https://github.com/bgrins/devtools-snippets)
+- [https://webforgood.fr/blog/en/using-devtools-seo/](https://webforgood.fr/blog/en/using-devtools-seo/)
+- [https://medium.com/geekculture/devtools-snippets-362a5c9630d7](https://medium.com/geekculture/devtools-snippets-362a5c9630d7)
+- [https://github.com/bahmutov/code-snippets](https://github.com/bahmutov/code-snippets)
+- [Google it](https://www.google.com/search?q=best+javascript-snippets+to+run+in+devtools)
+- [ChatGPT](https://chatgpt.com/)

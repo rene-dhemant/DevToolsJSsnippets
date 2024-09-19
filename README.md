@@ -5,6 +5,8 @@
 
 Actually, it must be a challenge cup because it was a 50/50 tie with [Roxana Stingu](https://www.linkedin.com/in/roxana-stingu/). She very cleverly gave me the lead and “demanded” all my handcrafted .JS snippets in return in front of the voting audience. **Well played. And of course I will deliver.** 🤝
 
+![cup](https://githubassets.pages.dev/PXL_20240918_091031798.jpg)
+
 But honestly: Every "6 minute" SEO Tech Tip was marvelous!
 
 - [Sebastian Adler](https://www.linkedin.com/in/sebadler/)
@@ -13,6 +15,8 @@ But honestly: Every "6 minute" SEO Tech Tip was marvelous!
 - [Rodrigo Bertomeu Suárez](https://www.linkedin.com/in/bertomeurodrigo/)
 - [Adrian S.](https://www.linkedin.com/in/adrian-s-2b323b28b/)
 - [Rene Dhemant](https://www.linkedin.com/in/rene-dhemant/)
+
+![techtipcompetition](https://githubassets.pages.dev/PXL_20240917_143330458.MP.jpg)
 
 [Sören](https://www.linkedin.com/in/sbendig/) and [Tobias](https://www.linkedin.com/in/schwarztobias/) from [Audisto GmbH](https://audisto.com/) have created a splendid conference format with the first hashtag#techseosummit 🤓
 
@@ -27,6 +31,12 @@ But honestly: Every "6 minute" SEO Tech Tip was marvelous!
 - [Eyüp Alikilic](https://www.linkedin.com/in/eyuepalikilic/)
 - [Roxana Stingu](https://www.linkedin.com/in/roxana-stingu/)
 
+![talk](https://githubassets.pages.dev/1_PXL_20240917_111412005.jpg)
+
 And all this in a cozy and upscale atmosphere with a true-color laser projector 😍
 
 I strongly recommend that you [get notified for an upcoming event](https://tech-seo-summit.com/) in 2025
+
+![techseosummit](https://githubassets.pages.dev/PXL_20240917_071530402.jpg)
+
+## DevTools > Sources > Snippets

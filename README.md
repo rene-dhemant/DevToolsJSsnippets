@@ -40,3 +40,5 @@ I strongly recommend that you [get notified for an upcoming event](https://tech-
 ![techseosummit](https://githubassets.pages.dev/PXL_20240917_071530402.jpg)
 
 ## DevTools > Sources > Snippets
+
+![DevToolsJSsnippets](https://githubassets.pages.dev/DevToolsJSSnippets.png)

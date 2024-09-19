@@ -1,0 +1,1 @@
+console.table(Array.from($$('meta')).map(el => ({ parent: el.parentElement.tagName, name: el.getAttribute('name'), content: el.getAttribute('content'), property: el.getAttribute('property') })), ['parent', 'name', 'content', 'property'])
